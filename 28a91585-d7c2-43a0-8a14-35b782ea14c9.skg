@@ -4,3 +4,5 @@ body: |2-
   Tried: answering "Need skg-diff mode from any view." by adding a child to it, inside Jeff's note on skg.
   Expected: my answer under his note, where he would meet it.
   Happened: the edit forked his note into my skgrepo. In my own views my fork now stands in his note's place, so I no longer see his note, only mine. In his views nothing changed, and nothing will until his config lists my skgrepo. Nothing told him I answered; for that I would have to write mail as well.
+contains:
+- 68989f41-ef5a-4ac9-a303-adc7aa9bcdb5
