@@ -1,0 +1,4 @@
+title: one layer deep
+pid: ffec6661-4416-4b04-a4fd-9f10311c5c66
+body: |2-
+  A subscription counts only the subscribed note's own children. A change one level down, such as Gen's new title under "the team", counts as nothing. Jeff says the same in "many ideas".

@@ -1,0 +1,5 @@
+title: 'Ed: yes, and for your changes, not only mine.'
+pid: ecfbe9b1-c6a8-456f-b1d8-e618b4ac2def
+body: |2-
+  I looked for what you changed this week, from my own server, where your skgrepo is foreign. The diff view said nothing had changed, because it never looks at a foreign skgrepo. Opening the notes you changed, nothing in them was marked new, moved or retitled. This very note I found only because Git named it.
+  From any view I would ask: since the last time I read this, what is new here, what moved, what changed its words? The "last time" would be mine, kept in my graph, not a commit of yours.

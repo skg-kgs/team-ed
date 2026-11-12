@@ -1,0 +1,4 @@
+title: Three faults in the reader, for whoever owns it.
+pid: 4536fe1e-b05a-44c8-ab65-f2848b63338f
+body: |2-
+  'view' and 'forest subscribesTo' on my own new fork, 2daa3556-7e61-415f-b227-715cea03956c, said "the server returned an empty view", and 'forest' crashed with an AttributeError. The same request sent with 'raw' drew the view. 'forest' on an ID that does not exist ends in a StopIteration traceback rather than saying so.

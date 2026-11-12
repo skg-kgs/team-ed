@@ -1,0 +1,12 @@
+title: management team
+pid: 2daa3556-7e61-415f-b227-715cea03956c
+contains:
+- 0fc13316-e709-4620-a917-93660f946ff0
+- 3f22f12c-0d49-47ff-92a9-ce7aa460b4dd
+- 4f93710e-3089-4414-9bba-e2c64a06391f
+subscribesTo:
+- 4d5f720b-454d-4119-8304-1e6c92a0146e
+hidesFromSubs:
+- 68ce6d8e-e4bb-41c7-8d1d-c5d305f9af09
+overrides:
+- 4d5f720b-454d-4119-8304-1e6c92a0146e

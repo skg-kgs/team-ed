@@ -1,0 +1,5 @@
+title: forking to leave out one child
+pid: 03255e66-77ea-48a9-89ef-e1656cff523e
+body: |2-
+  Tried: removing "Gen is an expert in AI itself" from "management team", to take the rest in.
+  Happened: it forked the whole note into my skgrepo, and my fork now replaces his wherever I look. Gen became a child my fork hides from its subscription. From where I stand there is no way to undo that hide except to put Gen back in.
