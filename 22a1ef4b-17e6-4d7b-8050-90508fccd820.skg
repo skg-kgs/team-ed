@@ -1,0 +1,10 @@
+title: A reply typed in the unread list vanishes on save, and its message stays unread.
+pid: 22a1ef4b-17e6-4d7b-8050-90508fccd820
+body: |2-
+  Steps, as Ed: in Jeff's inbox with the subscribee made editable, I
+  typed a child under the 17:35 message, saved and approved the fork.
+  The redraw showed the original, now '1S 1O', with no child; the count
+  stayed 'C32/35'. The reply exists only as a fork no note contains.
+  Not tested as Jeff: there the fork would be his own, the root's
+  author's, and might stand in the message's place. His filing of his
+  forks under 'maybe done' fits the reply vanishing for him too.
