@@ -1,8 +1,0 @@
-title: Taking back a reply where the sender sees it asks to fork the sender's note.
-pid: 5e1c2774-0186-4c65-bf65-6295fc5b34ba
-body: |2-
-  Deleting my fork where it stood in place of the message, in my own
-  perspective of Top's 'to Jeff', made the server ask to fork 'to Jeff'
-  itself. What worked: delete the reply's child, then view the fork as
-  its own root and delete it there. Jeff in Emacs would meet the fork
-  question. The save's handling is Terry's, overrides Sue's.
