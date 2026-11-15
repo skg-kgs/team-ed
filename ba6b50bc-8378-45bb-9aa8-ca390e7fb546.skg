@@ -1,0 +1,7 @@
+title: 'What is written: a word in double brackets is already an Org link to a heading of that name.'
+pid: ba6b50bc-8378-45bb-9aa8-ca390e7fb546
+body: |2-
+  He already writes '[[help]]' and '[[rel]]' in his sketches of
+  relations to mean a link to the node so titled, so the syntax agrees
+  with his habit. What it means inside a code block, or when nothing
+  matches, is open; leaving it as typed and warning is the default.

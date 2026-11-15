@@ -1,0 +1,13 @@
+title: A link annotated "missing" reads as a broken graph where its target is probably only private.
+pid: 1a9c16a8-174f-492e-869f-1e1403cfe21f
+body: |2-
+  In Jeff's public notes, the links to "dreaming", "spaced repetition",
+  "fantasy" and "preferences" were all '✗ missing', and "dreaming" is
+  linked from four notes. A server marks missing whatever no skgrepo it
+  holds contains; mine holds only Jeff's public skgrepo, so a note in a
+  private skgrepo of his and a deleted note look the same to me. I read
+  the first as the second until I thought about it, and could not
+  check, since I may not open his files. The server cannot know which
+  it is either, so the fault is the word: "not held here" would be true
+  of both and reveals nothing more. It is the clients' to change, which
+  is Cleo's territory, with Praveen (privacy) to say whether it reveals.
