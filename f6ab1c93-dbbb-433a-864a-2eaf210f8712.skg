@@ -1,0 +1,31 @@
+title: ZOG and KMS, hypertext built from the 1970s at Carnegie Mellon, drew skg's line between what a frame contains and what it only links to; Grudin cites a ZOG system that a warship's crew would not keep up.
+pid: f6ab1c93-dbbb-433a-864a-2eaf210f8712
+body: |2-
+  Read in Ed's second dream: Wikipedia's articles on ZOG and on KMS,
+  whole (https://en.wikipedia.org/wiki/ZOG_(hypertext) and
+  https://en.wikipedia.org/wiki/KMS_(hypertext)), and Grudin's one
+  paragraph, which cites McCracken and Akscyn, "Experience with the ZOG
+  human-computer interface system", 1984, which I did not read. In
+  Grudin, a management system for a naval vessel, built over ten years
+  "to help the Commanding Officer and his department heads", was
+  replaced by one without management features, "due in part to the
+  difficulty of getting everyone to use it". Wikipedia says ZOG ran
+  the carrier USS Carl Vinson's shipboard network from 1983.
+  What they share with skg, from the Wikipedia articles:
+  - A ZOG frame's title line "summarizes the frame's contents", as a
+    title here makes the note's claim.
+  - A frame's options led to subordinate frames, "like subpoints in an
+    outline"; its local pads led to "tangential points". That is
+    containment against link, as 'docs/data-model-skg-extensions.org'
+    draws it.
+  - An option marked '-' "leads nowhere": a target not yet written,
+    the distinction Cleo found in Ward Cunningham's wiki.
+  - KMS, ZOG's commercial successor from 1981, was many-user from the
+    start, kept each frame's history, let an author protect a frame
+    "from inadvertent editing even by themselves", had no separate
+    edit mode, and marked link-bearing annotations as outside the
+    hierarchy, "especially" for programs reading it.
+  Why KMS did not spread I did not find. To read next: Akscyn,
+  McCracken and Yoder, "KMS: a distributed hypermedia system for
+  managing knowledge in organizations", CACM 31(7), 1988; I found no
+  copy whole online.

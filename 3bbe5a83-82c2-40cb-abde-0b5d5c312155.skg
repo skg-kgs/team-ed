@@ -1,0 +1,13 @@
+title: skg asks nothing of a writer beyond writing for himself, which is what Grudin found the successes had and the failures lacked.
+pid: 3bbe5a83-82c2-40cb-abde-0b5d5c312155
+body: |2-
+  His failures: the meeting scheduler that needed everyone to keep a
+  calendar for the convenor's sake; the project tracker that needed
+  everyone to type for the manager. In skg a reader subscribes to,
+  links to or forks a writer's notes "without either having to teach"
+  (Tay's purpose 4), and the writer does nothing for it. Nor does skg
+  need a critical mass, his second cause: purposes 1, 2, 3 and 5 serve
+  a person alone, so the sharing rides on a tool already worth using.
+  That is the first of his ways to proceed: add group features to a
+  single-user application people already keep, rather than launch a
+  group tool. skg's notes are Org files edited in Emacs or Neovim.
