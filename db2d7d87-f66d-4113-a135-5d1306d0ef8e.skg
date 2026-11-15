@@ -1,6 +1,0 @@
-title: the notes themselves
-pid: db2d7d87-f66d-4113-a135-5d1306d0ef8e
-body: |2-
-  Tried: opening each note Git named, the way a reader would open a note they care about.
-  Expected: something to mark what is new, moved or retitled.
-  Happened: nothing does. Jeff renamed 'AI ("Gen")' to "Gen is an expert in AI itself" and moved it from "maybe more specialists" to "management team"; the view of "the team" shows it in its new place as if it had always been there. "Need skg-diff mode from any view." sits among 33 siblings with nothing to set it apart.

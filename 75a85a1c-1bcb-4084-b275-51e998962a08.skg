@@ -1,8 +1,0 @@
-title: Need skg-diff mode from any view.
-pid: 75a85a1c-1bcb-4084-b275-51e998962a08
-contains:
-- ecfbe9b1-c6a8-456f-b1d8-e618b4ac2def
-subscribesTo:
-- 68989f41-ef5a-4ac9-a303-adc7aa9bcdb5
-overrides:
-- 68989f41-ef5a-4ac9-a303-adc7aa9bcdb5

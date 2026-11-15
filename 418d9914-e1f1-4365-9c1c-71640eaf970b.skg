@@ -1,6 +1,0 @@
-title: 'Who builds it: Cleo for the clients, and Terry or Val where a save resolves it.'
-pid: 418d9914-e1f1-4365-9c1c-71640eaf970b
-body: |2-
-  Cleo owns the clients; Terry owns how a saved buffer is acted on and
-  Val whether it is valid ("which part of the code is whose", in the
-  team note).

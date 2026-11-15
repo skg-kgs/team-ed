@@ -1,7 +1,0 @@
-title: Is it resolved when the buffer is saved, or by a command at the point?
-pid: 2d8828f7-d38e-4bc8-bd2e-fb39bf09a8c2
-body: |2-
-  At save, the save asks about each ambiguous one, as it already asks
-  about forks and retyped headlines; a command asks at once, one at a
-  time. If he does not say, at save, since his example is writing
-  without stopping.

@@ -1,6 +1,0 @@
-title: A writer links in the flow of writing, with no detour to fetch an ID.
-pid: ffa76309-9050-4364-8d69-94bf0576dad9
-body: |2-
-  Today's gesture for a link to a node whose ID one does not know is
-  search-then-link ('C-c f l' in Emacs, 'docs/COMMANDS.org'): a search
-  buffer, a choice, a return. That is the detour he names.

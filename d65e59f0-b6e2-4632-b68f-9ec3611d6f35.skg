@@ -1,7 +1,0 @@
-title: where we differ
-pid: d65e59f0-b6e2-4632-b68f-9ec3611d6f35
-body: |2-
-  His sketch begins from a subscription. I had none: his week of changes was spread over music, the team, skg, puzzles and his mailboxes. A reader needs first a view of everything one author changed, and only then the subscriptions.
-  His "pruned change view" takes its starting point from his commits (his HEAD, or HEAD-1). Most of his week was uncommitted, and one commit called "more" holds days of work. What a reader needs is the point where they themselves last marked a note read, which his "mark processed" note already keeps. I would let those marks define where the pruned view begins.
-  The live notice from the reader's log is not in his sketch, and it was the one thing that worked.
-  He imagines reading depth first. Skg gave me no tree of changes to walk at all, so I read in the order Git listed files.

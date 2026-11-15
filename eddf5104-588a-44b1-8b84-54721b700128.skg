@@ -1,6 +1,0 @@
-title: a fork that already subscribes
-pid: eddf5104-588a-44b1-8b84-54721b700128
-body: |2-
-  Tried: Claude's fork of Jeff's "shareable knowledge gardens (skg)", made before Jeff added "Need skg-diff mode from any view." to it.
-  Expected: the new child shown under Jeff's note, as unintegrated content.
-  Happened: the herald 'C1/33' said one of 33 children was new, and drew none of them, because Claude's fork is foreign to me. To learn which one, I compared the two lists of children by hand.

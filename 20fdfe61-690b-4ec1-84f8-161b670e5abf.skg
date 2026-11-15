@@ -1,7 +1,0 @@
-title: a reading log of placed nodes
-pid: 20fdfe61-690b-4ec1-84f8-161b670e5abf
-body: |2-
-  Tried: placing four of the notes I had read under a node of my own, as a log of what I had read.
-  Expected: a list I could check new changes against.
-  Happened: a placed node brings its whole subtree with it, so one of the four, "management team", added about fifty lines to my home note. The log does not know which version I read: if Jeff edits one of these tomorrow, nothing in it will change. And the only trace Jeff could see is one more container on each note, which says "contained", not "read".
-  Claude deleted the log after the mission, for those reasons.
